@@ -1,0 +1,23 @@
+Version 1.1.3 -
+
+- Override buildings with hardcoded base surfaces (m_cellSurfaces) when surface texture override is set to None
+
+
+Version 1.1.2 -
+
+- Remove redundant debugging info
+
+
+Version 1.1.1 -
+
+- Use custom deserialization timing to ensure saved settings are always ready when loading
+
+
+Version 1.1 -
+
+- Add full serialization of individual building settings
+
+
+Version 1.0.1 hotfix -
+
+- Fix pavement surfaces being hidden by default
